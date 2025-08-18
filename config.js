@@ -1,0 +1,10 @@
+module.exports = {
+  SESSION_ID: "SUBZERO-MD;;;6Acw0KRD#xD0-J1A6_gEiMdF51deTE46N-j1LU0UxdDKzSba-Cl8",
+  OWNER_NUMBER: "+256742728768", 
+  PREFIX: ".",
+  // Auto-generated environment variables
+  NODE_ENV: process.env.NODE_ENV || "production",
+  PORT: process.env.PORT || 3000,
+  DATABASE_URL: process.env.DATABASE_URL || "",
+  // Add any custom environment variables here
+};
